@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Infinibyte-Github
 - 👀 I’m interested in computers and programming
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Python, Javascript and C
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me? discord: Infinibyte#0738
