@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Infinibyte-Github
+- 👋 Hi, I’m Infinibyte
 - 👀 I’m interested in computers, programming, games, memes and music
 - 🌱 I’m currently learning Python, Javascript and C(++)
 - 💞️ I’m looking to collaborate on anything
